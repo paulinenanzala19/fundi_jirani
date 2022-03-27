@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    font-family: dancing script;
+}
+#image{
+    width: 15vw;
+    height: 20vh;
+
+}
+.navbar ul{
+    display: flex;
+    /* border: 1px solid red; */
+    width: 50%;
+    justify-content: space-evenly;
+    margin-left: 40%;
+    /* margin-top: -15%; */
+}
+.navbar ul li{
+    list-style-type: none;
+    color: #C19A6B;
+    font-size: 20px;
+}
+.header{
+    padding-top: 2%;
+    padding-left: 3%;
+    background-image: url("../assets/tools.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.header p{
+    text-align: center;
+    font-size: 50px;
+    color: #C19A6B;
+    padding-top: 10%;
+    padding-bottom: 20%;
+    /* font-family: hurricane; */
+}
